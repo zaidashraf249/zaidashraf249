@@ -71,7 +71,7 @@ G. H. Raisoni College of Arts, Commerce & Science, Nagpur
 
 - 📧 Email: [zaidashraf249@gmail.com](mailto:zaidashraf249@gmail.com)  
 - 📞 Phone: +91 9322822436  
-- 🌐 Portfolio: (https://zaid-portfolio-rb3b.vercel.app) 
+- 🌐 Portfolio: https://zaid-portfolio-rb3b.vercel.app 
 - 🔗 LinkedIn: [linkedin.com/in/zaid-ashraf-58a18a265](https://linkedin.com/in/zaid-ashraf-58a18a265)  
 - 💻 GitHub: [github.com/zaidashraf249](https://github.com/zaidashraf249)
 
